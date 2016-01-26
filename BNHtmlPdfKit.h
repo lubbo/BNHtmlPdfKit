@@ -6,6 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <CoreGraphics/CoreGraphics.h>
+#import <UIKit/UIKit.H>
 
 @protocol BNHtmlPdfKitDelegate;
 
